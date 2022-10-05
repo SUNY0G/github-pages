@@ -1,0 +1,22 @@
+body {
+	background-color:Pink; border:3px solid Black;
+}
+
+h1 {
+	background-color:#D5F5E3; 
+	border:3px solid Black;
+	padding: 30px; 
+	margin: 25px;	
+}
+
+p {
+	font-family:veredana;
+	border:2px solid Black;	
+	padding:10px;
+	margin: 30px;
+}
+
+img {
+	border:3px solid Black;
+	margin: 30px;
+}
